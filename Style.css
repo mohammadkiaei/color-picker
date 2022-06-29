@@ -1,0 +1,48 @@
+html,
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #11324D;
+}
+
+input {
+    border: 1px solid #fff;
+    width: 12em;
+    height: 8em;
+    border-radius: 5px;
+}
+
+h1,
+h3 {
+    color: #fff;
+}
+
+.container {
+    padding-top: 3em;
+    margin-top: 2em;
+    font-size: medium;
+    font-weight: 200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+a {
+    color: #fff;
+    text-decoration: none;
+    color: orangered;
+}
+
+/* Developed By SeyedMohammadMahdi Kiaei */
